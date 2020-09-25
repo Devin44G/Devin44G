@@ -1,4 +1,4 @@
-## Hi, I'm Devin :wave: :grin:
+## Hi, I'm Devin :wave:
 
 #### I'm a software engineer :computer:
 - I'm currently working with an amazing team of 6 on an *awesome* product for the non-profit organization, *Bridges to Prosperity*. Ask me about it :speech_balloon:
@@ -17,6 +17,8 @@
 - :question: *Who are your "Top 5"* :question: 
 
 #### Most importantly . . . I get to do what I love every day (well, almost every day). Coding.
+
+[![Devin's github stats](https://github-readme-stats.vercel.app/api?username=Devin44G&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Devin44G/Devin44G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
